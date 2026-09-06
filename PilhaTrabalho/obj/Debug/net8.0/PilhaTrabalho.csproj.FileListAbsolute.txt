@@ -1,0 +1,14 @@
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/bin/Debug/net8.0/PilhaTrabalho
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/bin/Debug/net8.0/PilhaTrabalho.deps.json
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/bin/Debug/net8.0/PilhaTrabalho.runtimeconfig.json
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/bin/Debug/net8.0/PilhaTrabalho.dll
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/bin/Debug/net8.0/PilhaTrabalho.pdb
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/obj/Debug/net8.0/PilhaTrabalho.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/obj/Debug/net8.0/PilhaTrabalho.AssemblyInfoInputs.cache
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/obj/Debug/net8.0/PilhaTrabalho.AssemblyInfo.cs
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/obj/Debug/net8.0/PilhaTrabalho.csproj.CoreCompileInputs.cache
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/obj/Debug/net8.0/PilhaTrabalho.dll
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/obj/Debug/net8.0/refint/PilhaTrabalho.dll
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/obj/Debug/net8.0/PilhaTrabalho.pdb
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/obj/Debug/net8.0/PilhaTrabalho.genruntimeconfig.cache
+/home/matheuscd/projetosCodigo/C#Esteban/PilhaTrabalho/obj/Debug/net8.0/ref/PilhaTrabalho.dll
